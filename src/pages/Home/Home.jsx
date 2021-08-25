@@ -8,6 +8,7 @@ import SampleProcess from 'src/components/SampleProcess/SampleProcess'
 export default function Home() {
   return (
     <div className="container">
+     <h1>Giahung</h1>
       <Slider />
       <TutorialGuide />
       <Brand />
