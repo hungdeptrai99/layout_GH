@@ -10,7 +10,7 @@ export const BannerImage = styled.div`
 export const BgImage = styled.img`
   position: absolute;
   z-index: -1;
-  width: auto;
+  width: 100%;
   height: auto;
   margin: 0 0 20px;
   padding: 0 0 108px;
